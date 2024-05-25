@@ -23,7 +23,7 @@
       <ul>
         <li>Open a terminal or command prompt.</li>
         <li>Navigate to the directory where you cloned the repository.</li>
-        <li>Run the game by executing the command: <code>python number_guessing_game.py</code></li>
+        <li>Run the game by executing the command: <code>python guessNum.py</code></li>
       </ul>
     </li>
     <li><strong>Game Instructions:</strong>
